@@ -1,4 +1,4 @@
-# cm_r
+# cm dissertation script
 
 # my diss script which may or more likely may not work...
 
